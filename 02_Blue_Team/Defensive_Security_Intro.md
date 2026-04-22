@@ -4,8 +4,9 @@
 **Goal:** Establish a foundational understanding of the defensive security lifecycle. This lab focuses on the methodologies, roles, and technologies required to monitor, detect, and respond to unauthorized activities within an enterprise network.
 
 ## Room Metadata
-* **Platform:** [TryHackMe](https://tryhackme.com/room/defensivesecurityintro)
+* **Platform:** [TryHackMe](https://tryhackme.com)
 * **Category:** Defensive Security / Blue Team
+* **Room:** [Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintro)
 * **Difficulty:** Medium
 * **Status:** `Completed`
 
