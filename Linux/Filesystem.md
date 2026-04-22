@@ -1,5 +1,12 @@
 # Filesystem
 
+## Room Metadata
+* **Platform:** [TryHackMe](https://tryhackme.com)
+* **Category:** Linux / Blue Team
+* **Room:** [Linux Fundamentals](https://tryhackme.com/room/linuxfundamentalspart1)
+* **Difficulty:** Easy
+* **Status:** `Completed`
+
 ## Objective
 Mastering essential Linux terminal commands for directory navigation and file viewing.
 
